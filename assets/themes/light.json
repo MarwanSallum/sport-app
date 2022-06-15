@@ -1,0 +1,47 @@
+{
+  "info" : {},
+  "colors" : {
+    "primary" : {
+      "main" : "#F1D1D0",
+      "dark" : "#F875AA",
+      "light" : "#FBACCC"
+    },
+    "secondary" : {
+      "main" : "#98ACF8",
+      "dark" : "#B088F9",
+      "light" : "#DA9FF9"
+    },
+    "info" : {
+      "main" : "#7DC3F9",
+      "dark" : "#5DB5F8",
+      "light" : "#9dd2fa"
+    },
+    "success" : {
+      "main" : "#6adfc5",
+      "dark" : "#45d7b7",
+      "light" : "#8fe7d3"
+    },
+    "warning" : {
+      "main" : "#ffdc75",
+      "dark" : "#ffd966",
+      "light" : "#ffe493"
+    },
+    "danger" : {
+      "main" : "#ff7a8f",
+      "dark" : "#ff5a74",
+      "light" : "#ff9cab"
+    }
+  },
+  "text" : {
+    "primary" : {
+      "main" : "#243A73",
+      "dark" : "#243A73",
+      "light" : "#243A73"
+    },
+    "secondary" : {
+      "main" : "#243A73",
+      "dark" : "#243A73",
+      "light" : "#243A73"
+    }
+  }
+}
